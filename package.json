@@ -1,7 +1,7 @@
 {
-  "name": "brave",
+  "name": "duma",
   "version": "0.19.0",
-  "description": "Brave laptop and desktop browser",
+  "description": "Duma laptop and desktop browser",
   "main": "./app/index.js",
   "config": {
     "port": "8080"
@@ -82,7 +82,7 @@
   "bugs": {
     "url": "https://github.com/brave/browser-laptop/issues"
   },
-  "homepage": "https://www.brave.com/",
+  "homepage": "https://www.dumabr.com/",
   "dependencies": {
     "acorn": "3.2.0",
     "ad-block": "^3.0.2",
